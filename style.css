@@ -1,0 +1,24 @@
+/* vim: set expandtab tabstop=4 shiftwidth=4: */
+/*
+Theme Name:     Parament-AoIT  
+Theme URI:      http: //michaelwalsh.org/
+Description:    Apex HS AoIT child theme for the Parament theme 
+Author:         Mike Walsh
+Author URI:     http: //michaelwalsh.org/about/
+Template:       parament
+Version:        0.1.0
+*/
+
+/** Load Parament CSS as a baseline  **/
+
+@import url("../parament/style.css");
+
+/**  Load Child theme and plugin CSS  **/
+
+/*
+@import url("css/base.css");
+@import url("css/menus.css");
+@import url("css/adblock.css");
+@import url("css/woocommerce.css");
+@import url("css/color.css");
+*/
